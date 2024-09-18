@@ -25,7 +25,7 @@ export const Contact = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();// so page doesnot reload
     setButtonText("Sending...");
-    let response = await fetch("https://portfolio-mocha-iota-58.vercel.app/", {
+    let response = await fetch("https://kashvi-portfolio.vercel.app/", {
       method: "POST",
       headers: {
         "Content-Type": "application/json;charset=utf-8",
