@@ -51,7 +51,7 @@ export const NavBar=() =>
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                  <a href="https://drive.google.com/file/d/1NZtOv2fExF6o1JVwMHbpecnaA7UHg2J1/view?usp=sharing" target="_blank"><img src={cv} alt="resume"/></a>
+                  <a href="https://drive.google.com/drive/folders/1dR2xMmHb27Jx8fJlZ0QREgkz_8TRxbCx" target="_blank"><img src={cv} alt="resume"/></a>
                   <a href="https://www.linkedin.com/in/kashvi-jain-7b9b50291/" target="_blank"><img src={linkedin} alt="linkedIn"/></a>
                   <a href="https://github.com/kashvi1904" target="_blank"><img src={git} alt="Icon" /></a>
                   <a href="https://leetcode.com/u/jainkashvi04/" target="_blank"><img src={leetcode} alt="Icon" /></a>
